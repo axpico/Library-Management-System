@@ -1,0 +1,11 @@
+UserId,Name,Email,PasswordHash,Role,IsActive
+LIB001,John Smith,john.smith@library.com,5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8,LIBRARIAN,true
+ADM001,Emma Johnson,emma.johnson@library.com,ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f,ADMIN,true
+MEM001,Alice Brown,alice.brown@email.com,8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92,MEMBER,true
+MEM002,Bob Wilson,bob.wilson@email.com,472bbe83616e93d3c96862f8470c9670f8d0dd3502110d6f92527951e3d4f91d,MEMBER,true
+MEM003,Carol Davis,carol.davis@email.com,9af1b3e62f1c4d38f9f9f0e0d0e0e0e0e0e0e0e0e0e0e0e0e0e0e0e0e0e0e0e0,MEMBER,false
+LIB002,David Lee,david.lee@library.com,1d5e8a6c0b4c9a2e8b7f3e1d5a8c7b4e2d1c5a9f6b3d7e8a2c4b6d8e9f1a3c5b7,LIBRARIAN,true
+MEM004,Eva Martinez,eva.martinez@email.com,6d7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f,MEMBER,true
+MEM005,Frank Taylor,frank.taylor@email.com,7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f,MEMBER,true
+ADM002,Grace Kim,grace.kim@library.com,8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b,ADMIN,true
+MEM006,Henry Nguyen,henry.nguyen@email.com,9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1,MEMBER,true

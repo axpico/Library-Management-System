@@ -1,0 +1,2 @@
+TransactionId,UserId,ISBN,BorrowDate,DueDate,ReturnDate,Status
+d09637eb-c359-46c4-abe7-0c4ba1680dba,MEM001,9780060850524,2025-03-28,2025-04-11,2025-03-28,Completed

@@ -1,0 +1,11 @@
+ISBN,Title,Author,Genre,IsAvailable,TotalCopies,AvailableCopies
+9780061120084,To Kill a Mockingbird,Harper Lee,FICTION,false,5,0
+9780451524935,1984,George Orwell,SCIENCE_FICTION,true,4,2
+9780141439518,Pride and Prejudice,Jane Austen,FICTION,true,3,1
+9780743273565,The Great Gatsby,F. Scott Fitzgerald,FICTION,true,6,4
+9780060850524,Brave New World,Aldous Huxley,SCIENCE_FICTION,true,3,3
+9780544003415,The Lord of the Rings,J.R.R. Tolkien,FANTASY,true,4,2
+9780316769174,The Catcher in the Rye,J.D. Salinger,FICTION,true,5,4
+9780062315007,The Alchemist,Paulo Coelho,FICTION,true,3,1
+9780143105428,The Grapes of Wrath,John Steinbeck,FICTION,true,4,3
+9780307474278,The Girl with the Dragon Tattoo,Stieg Larsson,MYSTERY,true,5,2
